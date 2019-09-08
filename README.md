@@ -10,9 +10,9 @@ ASP.NET Core / Razor Pages / EF Core / SQLLocalDB
 
 安装教程
 
-1. 打开项目
+1. 打开项目:
 Visual Studio打开JD.MovieRazor.sln.
-2. 创建数据库
+2. 创建数据库/n
 Visual Studio/工具/NuGet包管理器/程序包管理器控制台, 依次执行两条命令.
 1). PM> Add-Migration 'Initial'.
 2). PM> Update-Database.
