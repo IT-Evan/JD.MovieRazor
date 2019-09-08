@@ -20,8 +20,8 @@ ASP.NET Core / Razor Pages / EF Core / SQLLocalDB
 Visual Studio打开JD.MovieRazor.sln.
 2. 创建数据库
 Visual Studio/工具/NuGet包管理器/程序包管理器控制台, 依次执行两条命令:
-PM> Add-Migration 'Initial'
-PM> Update-Database
+1). PM> Add-Migration 'Initial'.
+2). PM> Update-Database.
 可以在Visual Studio/视图/SQL Server对象资源管理器, 查看数据库.
 3. 运行项目
 F5运行即可.
