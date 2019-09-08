@@ -1,9 +1,11 @@
 JD.MovieRazor
 
 介绍
+
 ASP.NET Core教程示例 - 电影管理项目
 
 软件架构
+
 ASP.NET Core / Razor Pages / EF Core / SQLLocalDB
 
 安装教程
